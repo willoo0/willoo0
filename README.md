@@ -4,9 +4,9 @@ I'm 13 years old A experienced coder, Starting abt 1 year ago. I'm a big fan of 
 
 <br>
 
-<b align="center">
-My skills:
-</b>
+<p align="center">
+<b>My skills:</b>
+</p>
 <p align="center">
   <a href="https://plexilearcade.xyz">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash" />
