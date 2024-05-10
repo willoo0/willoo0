@@ -8,7 +8,7 @@ I'm 13 years old A experienced coder, Starting abt 1 year ago. I'm a big fan of 
   s
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://plexilearcade.xyz">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash" />
   </a>
 </p>
