@@ -5,7 +5,7 @@ I'm 13 years old A experienced coder, Starting abt 1 year ago. I'm a big fan of 
 <br>
 
 <p align="center">
-<b>My skills:</b>
+<b>My Skills 💪</b>
 </p>
 <p align="center">
   <a href="https://plexilearcade.xyz">
