@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #b03232;">Hello I'm willo 👋</h1>
 
-I'm 13 years old, A experienced coder (Starting abt 2yrsago) I enjoy anime, I'm a big fan of Rick & Morty, & LOVE Sports + I created PLEXILE Network.
+I'm 13 years old, A experienced coder (Starting abt 2yrs ago) I enjoy anime, I'm a big fan of Rick & Morty, & LOVE Sports + I created PLEXILE Network.
 
 
 <p align="center">
